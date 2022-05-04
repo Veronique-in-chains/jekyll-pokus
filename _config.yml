@@ -1,8 +1,8 @@
-title: Your awesome title
-description: My awesome site
+title: Můj první Jekyll web
+description: Teď se učím, jak funguje Jekyll
 permalink: /:slugified_categories/:title/
 
-date_format: "%b %-d, %Y"
+date_format: "%d. %m. %Y"
 
 exclude:
   - "package*.json"
